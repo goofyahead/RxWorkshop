@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1016540428777",
+    "firebase_url": "https://real-time-workshop.firebaseio.com",
+    "project_id": "real-time-workshop",
+    "storage_bucket": "real-time-workshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016540428777:android:d48bc40924234e0b",
+        "android_client_info": {
+          "package_name": "com.example.tsl057.rxjavaplayground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016540428777-uagogja4fgo4quuls85hjovhtekn359d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tsl057.rxjavaplayground",
+            "certificate_hash": "7b830aeadf459c810f0c23966c866fad0edcdd03"
+          }
+        },
+        {
+          "client_id": "1016540428777-21r9ssoo52pukrba1a318u714gobl2ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdiSwbZAeFwaGXhcMAz7FStF2qQ8AfI6w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016540428777-21r9ssoo52pukrba1a318u714gobl2ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016540428777:android:79c8d46a943c318e",
+        "android_client_info": {
+          "package_name": "com.example.tsl057.rxjavaplaygroundjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016540428777-9atq6p7185acep491bgbkrvmdq9373r4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tsl057.rxjavaplaygroundjava",
+            "certificate_hash": "7b830aeadf459c810f0c23966c866fad0edcdd03"
+          }
+        },
+        {
+          "client_id": "1016540428777-21r9ssoo52pukrba1a318u714gobl2ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdiSwbZAeFwaGXhcMAz7FStF2qQ8AfI6w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016540428777-21r9ssoo52pukrba1a318u714gobl2ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

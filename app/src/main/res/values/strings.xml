@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxJavaPlaygroundJava</string>
+    <string name="price">Price:</string>
+    <string name="like">LIKE</string>
+    <string name="ok">OK</string>
+    <string name="offer">AMAZING OFFER</string>
+</resources>
